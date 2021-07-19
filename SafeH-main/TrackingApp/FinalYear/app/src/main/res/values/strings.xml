@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrackingApp</string>
+    <string name="access_token">pk.eyJ1IjoiYnJhbmllbDk2IiwiYSI6ImNrcjZ1eHNqNDNqNHUydnFhdmY3OTZhZDgifQ.YJPIc2IdCorBoPVVkjZMeQ</string>
+    <string name="NavButton">Navigation Button</string>
+</resources>
